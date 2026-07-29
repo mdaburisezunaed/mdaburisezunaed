@@ -86,7 +86,6 @@ Developer me = {
 
 ## 🚀 Highlighted Projects
 
-<!-- Fix #9: added "View Repository" links for each project (replace # with actual repo URL) -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -97,7 +96,6 @@ Developer me = {
         <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square"/>
         <img src="https://img.shields.io/badge/Hardware%20Biometric-00F0FF?style=flat-square"/>
       </p>
-      <a href="https://github.com/mdaburisezunaed">→ View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h4>⚡ Mac Downloader Utility</h4>
@@ -107,7 +105,6 @@ Developer me = {
         <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple"/>
         <img src="https://img.shields.io/badge/CLI%20Tool-4D4D4D?style=flat-square"/>
       </p>
-      <a href="https://github.com/mdaburisezunaed">→ View Repository</a>
     </td>
   </tr>
   <tr>
@@ -119,7 +116,6 @@ Developer me = {
         <img src="https://img.shields.io/badge/Networking-WiFi-00E5FF?style=flat-square"/>
         <img src="https://img.shields.io/badge/Mac%20CLI-000000?style=flat-square&logo=apple"/>
       </p>
-      <a href="https://github.com/mdaburisezunaed">→ View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h4>🎵 Telegram Music Bot</h4>
@@ -129,7 +125,6 @@ Developer me = {
         <img src="https://img.shields.io/badge/Telegram%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
         <img src="https://img.shields.io/badge/Automation%20Bot-FF6F00?style=flat-square"/>
       </p>
-      <a href="https://github.com/mdaburisezunaed">→ View Repository</a>
     </td>
   </tr>
 </table>
@@ -139,9 +134,8 @@ Developer me = {
 ## 📊 GitHub Stats & Snake Animation
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdaburisezunaed&show_icons=true&theme=react&hide_border=true&count_private=true"
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdaburisezunaed&show_icons=true&theme=react&hide_border=true&count_private=true"
        alt="GitHub Stats" width="48%"/>
-  <!-- Fix #6: replaced dead Heroku URL with demolab.com -->
   <img src="https://streak-stats.demolab.com/?user=mdaburisezunaed&theme=react&hide_border=true"
        alt="GitHub Streak" width="48%"/>
 </div>
@@ -149,7 +143,7 @@ Developer me = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaburisezunaed&layout=compact&theme=react&hide_border=true&langs_count=6"
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdaburisezunaed&layout=compact&theme=react&hide_border=true&langs_count=6"
        alt="Top Languages" width="48%"/>
 </div>
 
