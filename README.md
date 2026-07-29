@@ -134,10 +134,8 @@ Developer me = {
 ## 📊 GitHub Stats & Snake Animation
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdaburisezunaed&show_icons=true&theme=react&hide_border=true&count_private=true"
-       alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=mdaburisezunaed&theme=react&hide_border=true&card_width=450"
-       alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdaburisezunaed&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=mdaburisezunaed&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
 </div>
 
 <br/>
